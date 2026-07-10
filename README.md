@@ -34,7 +34,7 @@ I am an AI & Robotics Research Engineer specialized in bridging the gap between 
 
 ### 📝 Peer-Reviewed Research Publications
 *   **IEEE International Conference (ICE2CPT2025):** Published *"Personal Companion Robot - Smart Buddy"* focusing on real-time computer vision optimization and LLM edge APIs.
-*   **International Conference on AI-Driven Solutions (ADSSSC 2026):** Presented *"AI-Based Coconut Tree Climbing and Harvesting Robot"* detailing state-of-the-art edge execution of deep object detectors for agricultural precision automation.
+*   **International Conference on AI-Driven Solutions (ADSSSC 2026):** Published *"AI-Based Coconut Tree Climbing and Harvesting Robot"* detailing state-of-the-art edge execution of deep object detectors for agricultural precision automation.
 
 ### 🥇 Competitive Milestones & Ecosystem Contributions
 *   **NASA Space Apps Challenge (2024 & 2025):** Competed in 48-hour high-intensity hackathons engineering data models focused on Sustainable Development Goals (SDGs), climate modeling, and predictive ecosystem metrics.
