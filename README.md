@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amalmiui&style=flat-square&color=7aa2f7" alt="Visitor Counter">
+  <img src="https://komarev.com/ghpvc/?username=amalkrishnam7&style=flat-square&color=7aa2f7" alt="Visitor Counter">
 </p>
 
 ---
@@ -51,11 +51,15 @@ I am an AI & Robotics Research Engineer specialized in bridging the gap between 
 *   **Architecture:** Camera Sensor Capture $\rightarrow$ Local Frame Buffer $\rightarrow$ Quantized Edge YOLOv8 Processing $\rightarrow$ Low-latency GPIO Motor Commands $\rightarrow$ Multi-sensor Feedback Control Loops.
 *   **Tech Stack:** `Python`, `YOLOv8`, `PyTorch`, `Raspberry Pi 5`, `Ultrasonic Sensor Arrays`, `DC/Stepper Hardware Motor Controllers`.
 *   **Engineering Highlights:** Formulated and curated a highly specialized dataset containing 1,200+ meticulously annotated target images. Trained and cross-validated custom object detection networks to secure an elite **88.4% mAP** rating. Engineered custom hardware abstractions on Python to coordinate live vision data pipelines with real-time hardware actuator triggers.
-[Camera Feed] ──> [YOLOv8 Network Tensor] ──> [Raspberry Pi 5 Compute Layer]
-│
-▼
-[Hardware Microcontrollers] <── [Real-time GPIO Signal]
----
+```mermaid
+flowchart LR
+    A[Camera Feed] --> B[YOLOv8 Detection]
+    B --> C[Raspberry Pi 5]
+    C --> D[Motor Controller]
+    D --> E[Robot Actuators]
+    E --> F[GPIO Feedback]
+    F --> C
+```
 
 ### 🧸 Smart Buddy: Interactive LLM Companion Node
 > **Core Focus:** Multi-modal AI, Real-time Computer Vision, Voice-to-Text Pipelines, Edge Computing
@@ -135,30 +139,48 @@ I am an AI & Robotics Research Engineer specialized in bridging the gap between 
 ## 📈 Git Architecture & Core Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amalkrishnam7&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalkrishnam7&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amalkrishnam7&theme=tokyonight&hide_border=true" width="97%" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=amalkrishnam7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
+    alt="GitHub Stats"
+  />
+
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalkrishnam7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
+    alt="Top Languages"
+  />
+
 </div>
 
 <br>
 
 <div align="center">
 
-  <h3>🐍 Active Code Vectorization Map</h3>
-
-  <a href="https://github.com/amalkrishnam7">
-    <img
-      src="https://raw.githubusercontent.com/amalkrishnam7/amalkrishnam7/output/github-contribution-grid-snake.svg"
-      alt="Contribution Snake"
-      width="97%"
-    />
-  </a>
+  <img
+    width="97%"
+    src="https://streak-stats.demolab.com?user=amalkrishnam7&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 
 </div>
 
+<br>
+
+<div align="center">
+
+### 🐍 Active Code Vectorization Map
+
+<a href="https://github.com/amalkrishnam7">
+  <img
+    width="97%"
+    src="https://raw.githubusercontent.com/amalkrishnam7/amalkrishnam7/output/github-contribution-grid-snake.svg"
+    alt="Contribution Snake"
+  />
+</a>
+
+</div>
 ---
 
 ## 🌱 Currently Vectorizing Research Into
