@@ -6,7 +6,9 @@
   <a href="https://github.com/amalmiui">
     <img src="https://img.shields.io/github/followers/amalmiui?label=Followers&style=for-the-badge&color=7aa2f7&labelColor=1a1b26" alt="GitHub Followers">
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID_HERE">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/amal-krishnam2003
+
+">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&color=7aa2f7&labelColor=1a1b26" alt="LinkedIn">
   </a>
   <a href="mailto:amalmiui@gmail.com">
