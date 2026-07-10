@@ -6,9 +6,7 @@
   <a href="https://github.com/amalkrishnam7">
     <img src="https://img.shields.io/github/followers/amalkrishnam7?label=Followers&style=for-the-badge&color=7aa2f7&labelColor=1a1b26" alt="GitHub Followers">
   </a>
-  <a href="https://linkedin.com/in/amal-krishnam2003
-
-">
+ <a href="https://linkedin.com/in/amal-krishnam2003">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&color=7aa2f7&labelColor=1a1b26" alt="LinkedIn">
   </a>
   <a href="mailto:amalmiui@gmail.com">
@@ -148,8 +146,15 @@ I am an AI & Robotics Research Engineer specialized in bridging the gap between 
 <br>
 
 <div align="center">
+
   <h3>🐍 Active Code Vectorization Map</h3>
-  <img src="https://github.com/amalkrishnam7/amalkrishnam7/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="97%"/>
+
+  <a href="https://github.com/amalkrishnam7">
+    <img src="https://github.com/amalkrishnam7/amalkrishnam7/blob/output/github-contribution-grid-snake.svg"
+         alt="Contribution Snake"
+         width="97%" />
+  </a>
+
 </div>
 
 ---
