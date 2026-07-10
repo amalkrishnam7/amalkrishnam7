@@ -139,6 +139,14 @@ flowchart LR
 ## 📈 Git Activity
 
 <p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=amalkrishnam7&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    width="100%"
+  />
+</p>
+
+<p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
