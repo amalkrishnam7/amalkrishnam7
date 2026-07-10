@@ -142,13 +142,13 @@ flowchart LR
 
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=amalkrishnam7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amalkrishnam7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
     alt="GitHub Stats"
   />
 
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalkrishnam7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amalkrishnam7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     alt="Top Languages"
   />
 
@@ -165,7 +165,6 @@ flowchart LR
   />
 
 </div>
-
 <br>
 
 <div align="center">
