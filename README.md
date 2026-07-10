@@ -139,15 +139,18 @@ flowchart LR
 ## 📈 Git Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=amalkrishnam7&theme=tokyonight&hide_border=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amalkrishnam7&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amalkrishnam7/amalkrishnam7/output/github-contribution-grid-snake.svg" width="100%" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/amalkrishnam7/amalkrishnam7/output/github-contribution-grid-snake-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/amalkrishnam7/amalkrishnam7/output/github-contribution-grid-snake.svg">
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/amalkrishnam7/amalkrishnam7/output/github-contribution-grid-snake.svg"
+      width="100%">
+  </picture>
 </p>
 ---
 
