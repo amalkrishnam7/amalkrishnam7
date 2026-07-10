@@ -172,14 +172,16 @@ flowchart LR
 ## 🤝 Establish Contact Matrix
 
 <p align="left">
+  <a href="https://linkedin.com/in/amal-krishnam2003" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/>
+  </a>
+  &nbsp;
   <a href="mailto:amalmiui@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/amal-krishnam2003">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/amalkrishnam7">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;
+  <a href="https://github.com/amalkrishnam7" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/>
   </a>
 </p>
 
