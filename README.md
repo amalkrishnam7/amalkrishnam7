@@ -3,10 +3,10 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/amalmiui">
-    <img src="https://img.shields.io/github/followers/amalmiui?label=Followers&style=for-the-badge&color=7aa2f7&labelColor=1a1b26" alt="GitHub Followers">
+  <a href="https://github.com/amalkrishnam7">
+    <img src="https://img.shields.io/github/followers/amalkrishnam7?label=Followers&style=for-the-badge&color=7aa2f7&labelColor=1a1b26" alt="GitHub Followers">
   </a>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/amal-krishnam2003
+  <a href="https://linkedin.com/in/amal-krishnam2003
 
 ">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&color=7aa2f7&labelColor=1a1b26" alt="LinkedIn">
@@ -137,19 +137,19 @@ I am an AI & Robotics Research Engineer specialized in bridging the gap between 
 ## 📈 Git Architecture & Core Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amalmiui&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalmiui&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amalkrishnam7&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalkrishnam7&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amalmiui&theme=tokyonight&hide_border=true" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amalkrishnam7&theme=tokyonight&hide_border=true" width="97%" />
 </div>
 
 <br>
 
 <div align="center">
   <h3>🐍 Active Code Vectorization Map</h3>
-  <img src="https://github.com/amalmiui/amalmiui/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="97%"/>
+  <img src="https://github.com/amalkrishnam7/amalkrishnam7/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="97%"/>
 </div>
 
 ---
@@ -167,13 +167,10 @@ I am an AI & Robotics Research Engineer specialized in bridging the gap between 
   <a href="mailto:amalmiui@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID_HERE">
+  <a href="https://linkedin.com/in/amal-krishnam2003">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_ID_HERE">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://github.com/amalmiui">
+  <a href="https://github.com/amalkrishnam7">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
