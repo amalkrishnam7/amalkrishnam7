@@ -136,50 +136,19 @@ flowchart LR
 
 ---
 
-## 📈 Git Architecture & Core Metrics
+## 📈 Git Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amalkrishnam7&theme=tokyonight&hide_border=true" width="100%" />
+</p>
 
-  <img
-    height="170"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amalkrishnam7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    alt="GitHub Stats"
-  />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amalkrishnam7&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
+</p>
 
-  <img
-    height="170"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amalkrishnam7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Top Languages"
-  />
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <img
-    width="97%"
-    src="https://streak-stats.demolab.com?user=amalkrishnam7&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-
-</div>
-<br>
-
-<div align="center">
-
-### 🐍 Active Code Vectorization Map
-
-<a href="https://github.com/amalkrishnam7">
-  <img
-    width="97%"
-    src="https://raw.githubusercontent.com/amalkrishnam7/amalkrishnam7/output/github-contribution-grid-snake.svg"
-    alt="Contribution Snake"
-  />
-</a>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amalkrishnam7/amalkrishnam7/output/github-contribution-grid-snake.svg" width="100%" />
+</p>
 ---
 
 ## 🌱 Currently Vectorizing Research Into
