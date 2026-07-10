@@ -150,9 +150,11 @@ I am an AI & Robotics Research Engineer specialized in bridging the gap between 
   <h3>🐍 Active Code Vectorization Map</h3>
 
   <a href="https://github.com/amalkrishnam7">
-    <img src="https://github.com/amalkrishnam7/amalkrishnam7/blob/output/github-contribution-grid-snake.svg"
-         alt="Contribution Snake"
-         width="97%" />
+    <img
+      src="https://raw.githubusercontent.com/amalkrishnam7/amalkrishnam7/output/github-contribution-grid-snake.svg"
+      alt="Contribution Snake"
+      width="97%"
+    />
   </a>
 
 </div>
