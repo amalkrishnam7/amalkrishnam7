@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-I am an AI & Robotics Research Engineer specialized in bridging the gap between deep learning models and physical automation systems. With a solid academic foundation in Artificial Intelligence & Data Science, my engineering philosophy revolves around building production-grade, highly optimized software architectures that seamlessly interface with hardware. From deploying custom multi-modal computer vision networks on resource-constrained edge devices to architecting predictive data analytics pipelines, I specialize in transforming theoretical AI paradigms into rugged, physical deployments.
+I am an AI & Data Science Engineer specializing in machine learning, deep learning, computer vision, NLP, and data analytics, with a focus on developing intelligent, scalable, and impactful AI solutions. With a solid academic foundation in Artificial Intelligence & Data Science, my engineering philosophy revolves around building production-grade, highly optimized software architectures that seamlessly interface with hardware. From deploying custom multi-modal computer vision networks on resource-constrained edge devices to architecting predictive data analytics pipelines, I specialize in transforming theoretical AI paradigms into rugged, physical deployments.
 
 *   **🎓 Education:** B.Tech in Artificial Intelligence and Data Science @ Jyothi Engineering College
 *   **💡 Philosophy:** "Hardware without software is a corpse; software without hardware is a ghost. Intelligence is what animates both."
