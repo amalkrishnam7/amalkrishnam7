@@ -26,7 +26,7 @@ I am an AI & Data Science Engineer specializing in machine learning, deep learni
 
 *   **🎓 Education:** B.Tech in Artificial Intelligence and Data Science @ Jyothi Engineering College
 *   **💡 Philosophy:** "Hardware without software is a corpse; software without hardware is a ghost. Intelligence is what animates both."
-*   **🎯 Specializations:** Computer Vision, Edge AI Deployment, Autonomous Robotics, NLP Architecture
+*   **🎯 Specializations:** AI, Computer Vision, Edge AI Deployment, Autonomous Robotics, NLP Architecture,Machine Learning
 
 ---
 
