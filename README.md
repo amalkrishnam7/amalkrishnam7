@@ -61,8 +61,8 @@ flowchart LR
     F --> C
 ```
 
-### 🧸 Smart Buddy: Interactive LLM Companion Node
-> **Core Focus:** Multi-modal AI, Real-time Computer Vision, Voice-to-Text Pipelines, Edge Computing
+### 🧸 Smart Buddy: Interactive Personal Companion Robot
+> **Core Focus:** Multi-modal AI, Real-time Computer Vision, Voice-to-Text Pipelines, Edge Computing, Human Following, Object Avoidance
 
 *   **Business Problem:** Creating latency-optimized, highly responsive companion interfaces that smoothly combine environmental tracking with conversational intelligence.
 *   **Architecture:** Dual-Threaded Processing Engine: Thread A manages camera input, face/human bounding-box calculation, and adaptive tracking; Thread B pipelines audio capture, secure asynchronous API requests, and streaming voice synthesis.
